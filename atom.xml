@@ -2,22 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://deysdmooc.github.io</id>
     <title>二运慕课</title>
-    <updated>2021-01-23T15:04:28.000Z</updated>
+    <updated>2021-01-23T15:06:05.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://deysdmooc.github.io"/>
     <link rel="self" href="https://deysdmooc.github.io/atom.xml"/>
     <logo>https://deysdmooc.github.io/images/avatar.png</logo>
     <icon>https://deysdmooc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 二运慕课</rights>
-    <entry>
-        <title type="html"><![CDATA[二运慕课系统介绍]]></title>
-        <id>https://deysdmooc.github.io/post/er-yun-mu-ke-xi-tong-jie-shao/</id>
-        <link href="https://deysdmooc.github.io/post/er-yun-mu-ke-xi-tong-jie-shao/">
-        </link>
-        <updated>2021-01-23T06:07:19.000Z</updated>
-        <content type="html"><![CDATA[<p>为了便于广大员工学习掌握新的知识，特开设二运慕课网站，方便广大员工学习。</p>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[计算机常用软件推荐]]></title>
         <id>https://deysdmooc.github.io/post/pcsoftwares/</id>
@@ -50,16 +41,16 @@
 <p><strong>软件弹窗拦截</strong></p>
 <p>腾讯电脑管家工具箱内点击即可使用。可去除绝大多数弹窗广告。针对少数顽固弹窗可以手动截图添加。</p>
 <h2 id="效率类">效率类</h2>
-<h2 id="清单">清单</h2>
+<h3 id="清单">清单</h3>
 <p><strong>Microsoft TO DO</strong></p>
 <p>需在Windows 10自带应用商店内搜索下载。微软出品的免费清单软件，支持PC，iOS，Android平台。界面清爽，基本功能齐全，推送即时。配合GTD时间管理方法使用更佳。</p>
-<h2 id="云笔记">云笔记</h2>
+<h3 id="云笔记">云笔记</h3>
 <p><strong>有道云笔记</strong></p>
 <p>免费，稳定，空间大的笔记软件别无分店。适合备份重要的资料。</p>
-<h2 id="本地搜索">本地搜索</h2>
+<h3 id="本地搜索">本地搜索</h3>
 <p><strong>Everything</strong></p>
 <p>快速全盘搜索本地文件，再也不用担心找不到藏在某个文件夹角落的文件了。</p>
-<h2 id="云盘">云盘</h2>
+<h3 id="云盘">云盘</h3>
 <p><strong>Microsoft OneDrive</strong></p>
 <p>免费用户可使用5GB容量。上传下载速度不俗。可当同步盘使用。</p>
 ]]></content>
