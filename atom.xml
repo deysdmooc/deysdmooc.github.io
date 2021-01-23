@@ -2,13 +2,60 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://deysdmooc.github.io</id>
     <title>二运慕课</title>
-    <updated>2021-01-23T10:15:16.193Z</updated>
+    <updated>2021-01-23T14:48:02.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://deysdmooc.github.io"/>
     <link rel="self" href="https://deysdmooc.github.io/atom.xml"/>
     <logo>https://deysdmooc.github.io/images/avatar.png</logo>
     <icon>https://deysdmooc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 二运慕课</rights>
+    <entry>
+        <title type="html"><![CDATA[二运慕课系统介绍]]></title>
+        <id>https://deysdmooc.github.io/post/er-yun-mu-ke-xi-tong-jie-shao/</id>
+        <link href="https://deysdmooc.github.io/post/er-yun-mu-ke-xi-tong-jie-shao/">
+        </link>
+        <updated>2021-01-23T06:07:19.000Z</updated>
+        <content type="html"><![CDATA[<p>为了便于广大员工学习掌握新的知识，特开设二运慕课网站，方便广大员工学习。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[计算机常用软件推荐]]></title>
+        <id>https://deysdmooc.github.io/post/pcsoftwares/</id>
+        <link href="https://deysdmooc.github.io/post/pcsoftwares/">
+        </link>
+        <updated>2021-01-23T02:27:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>工欲善其事，必先利其器。针对工作中常见的场景，我们精心挑选了一些优质软件分享给大家。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>工欲善其事，必先利其器。针对工作中常见的场景，我们精心挑选了一些优质软件分享给大家。</p>
+<!-- more -->
+<h2 id="系统类">系统类</h2>
+<h3 id="杀毒软件">杀毒软件</h3>
+<p><a href="https://guanjia.qq.com/" target="_blank"><strong>腾讯电脑管家</strong></a></p>
+<p>杀毒功能够用，工具箱充实，最难能可贵的是不但自身广告极少，还可以消灭其他应用的弹窗广告。</p>
+<h3 id="压缩软件">压缩软件</h3>
+<p><strong>BandiZip</strong></p>
+<p>界面美观，使用便捷，美中不足的是解压效率较低。</p>
+<p><strong>7Zip</strong></p>
+<p>1.4M的超小身材却有着极快的解压速率，且完全无广告。但操作略显繁琐，适合经常处理大型文件的人。</p>
+<h3 id="浏览器">浏览器</h3>
+<p><strong>Microsoft Edge</strong></p>
+<p>Windows 10自带浏览器，使用Chromium内核速度极快，无广告，可用微软账号同步收藏夹，插件等。缺点是没有IE内核，个别老旧网站无法正常访问。建议搭配IE浏览器使用。</p>
+<p><strong>Google Chrome</strong></p>
+<p>适用于非Windows 10的系统，速度极快，无广告。缺点同Edge浏览器。</p>
+<h3 id="本地视频播放">本地视频播放</h3>
+<p><strong>PotPlayer</strong></p>
+<p>Windows平台最强大的本地视频播放软件。支持格式多，解码能力强大，支持12倍变速，无广告。</p>
+<h3 id="桌面整理">桌面整理</h3>
+<p><strong>腾讯桌面整理</strong></p>
+<p>腾讯电脑管家工具箱内点击即可使用。占用低，界面美观。支持一键整理。</p>
+<h3 id="去广告">去广告</h3>
+<p><strong>软件弹窗拦截</strong></p>
+<p>腾讯电脑管家工具箱内点击即可使用。可去除绝大多数弹窗广告。针对少数顽固弹窗可以手动截图添加。</p>
+<h2 id="效率类">效率类</h2>
+<h2 id="清单">清单</h2>
+<p>**Microsoft TO DO</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://deysdmooc.github.io/post/hello-gridea/</id>
