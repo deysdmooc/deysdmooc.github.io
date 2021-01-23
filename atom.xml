@@ -2,13 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://deysdmooc.github.io</id>
     <title>二运慕课</title>
-    <updated>2021-01-23T15:06:41.093Z</updated>
+    <updated>2021-01-23T15:10:20.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://deysdmooc.github.io"/>
     <link rel="self" href="https://deysdmooc.github.io/atom.xml"/>
     <logo>https://deysdmooc.github.io/images/avatar.png</logo>
     <icon>https://deysdmooc.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 二运慕课</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://deysdmooc.github.io/post/test/</id>
+        <link href="https://deysdmooc.github.io/post/test/">
+        </link>
+        <updated>2021-01-23T07:08:11.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://v.youku.com/v_show/id_XNTA4MDIzNTE3Mg==.html" target="_blank">重载铁路数字化运维技术</a></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[计算机常用软件推荐]]></title>
         <id>https://deysdmooc.github.io/post/pcsoftwares/</id>
