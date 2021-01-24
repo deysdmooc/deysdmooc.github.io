@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://deysdmooc.github.io</id>
     <title>二运慕课</title>
-    <updated>2021-01-23T15:10:20.467Z</updated>
+    <updated>2021-01-24T03:13:50.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://deysdmooc.github.io"/>
     <link rel="self" href="https://deysdmooc.github.io/atom.xml"/>
@@ -24,8 +24,12 @@
         <link href="https://deysdmooc.github.io/post/pcsoftwares/">
         </link>
         <updated>2021-01-23T02:27:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>工欲善其事，必先利其器。<!-- more -->针对工作中常见的场景，我们精心挑选了一些优质软件分享给大家。<br>
+本文内未标明下载地址的软件均可在腾讯电脑管家内搜索下载。</p>
+]]></summary>
         <content type="html"><![CDATA[<p>工欲善其事，必先利其器。<!-- more -->针对工作中常见的场景，我们精心挑选了一些优质软件分享给大家。<br>
 本文内未标明下载地址的软件均可在腾讯电脑管家内搜索下载。</p>
+<!-- more -->
 <h2 id="系统类">系统类</h2>
 <h3 id="杀毒软件">杀毒软件</h3>
 <p><a href="https://guanjia.qq.com/" target="_blank"><strong>腾讯电脑管家（点击下载）</strong></a></p>
